@@ -6,25 +6,25 @@
 
 *A new project for the Strait of Messina has been approved: a roundabout will be built. Donald Trump approved.*
 
-Di **Andrea Savarino** · 24 settembre 2026
+By **Andrea Savarino** · 24 September 2026
 
-![Rappresentazione del progetto: la rotonda con il faro al centro dello Stretto.](Immagine_di_Trump.jpeg)
+![Illustration of the project: the roundabout with a lighthouse at the center of the Strait.](Immagine_di_Trump.jpeg)
 
-*Rappresentazione del progetto: la rotonda con il faro al centro dello Stretto.*
+*Illustration of the project: the roundabout with a lighthouse at the center of the Strait.*
 
 The Strait of Messina Bridge project moves forward with a new roundabout plan, marking another step toward the development of the long-awaited connection between Sicily and mainland Italy. The first time, Matteo Salvini tried to build a bridge to connect Sicily to Calabria. Now a new project to build a roundabout over the strait has been chosen instead of the first idea. This new decision has been discussed all over the world.
 
 The big roundabout, with a radius of 500 meters, will be built in the perfect center of the strait. The bridge will have 6 lanes in total, will be 60 meters wide and 3.6 kilometers long. There will be 14 meters between the outgoing and return lanes.
 
-## Dati principali
+## Data:
 
-- Raggio della rotonda: **500 m**
-- Corsie: **6** · Larghezza: **60 m** · Lunghezza: **3,6 km**
-- Distanza tra corsie di andata e ritorno: **14 m**
-- Altezza del faro: **98 m** · Diametro della luce: **6 m**
-- Addetti al monitoraggio delle navi: **20**, 24 ore su 24
-- Posti di lavoro stimati: circa **150.000**
-- Tempi: **6-7 anni** secondo Salvini, **13 anni** secondo gli esperti (ritardi esclusi)
+- Roundabout radius: **500 m**
+- Lanes: **6** · Width: **60 m** · Length: **3.6 km**
+- Distance between outbound and return lanes: **14 m**
+- Lighthouse height: **98 m** · Light diameter: **6 m**
+- Ship monitoring staff: **20**, around the clock
+- Estimated jobs: approximately **150,000**
+- Timeline: **6-7 years** according to Salvini, **13 years** according to experts (excluding delays)
 
 ## The lighthouse
 
